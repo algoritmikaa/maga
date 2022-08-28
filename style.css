@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+header {
+    background-color: blue;
+    height: 60px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+footer {
+    background-color: blue;
+    padding: 10px;
+}
